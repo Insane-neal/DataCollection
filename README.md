@@ -1,5 +1,6 @@
 # DataCollection
 Android sensor data collection
+
 1. Install the app through android studio.
 
 2. After installation, run the app DataCollection. Click on STARTLOGDATA when needs to collect sensor data.
